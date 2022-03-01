@@ -8,7 +8,7 @@ In addition to discovering the root cause, we should strive to provide context a
 
 The content on this repository should be shared once the inicidents are mitigated or resolved so that we don't expose potential vulnerabilities.
 
-In order to perform the Incident Analysis you can choose the tool that beeter fits the situation, some common examples are: [5 Whys](https://en.wikipedia.org/wiki/Five_whys
+In order to perform the Incident Analysis you can choose the tool that better fits the situation, some common examples are: [5 Whys](https://en.wikipedia.org/wiki/Five_whys
 ), [Fishbone Diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram) (many potential causes, cause & effect) or [Change Impact Analysis](https://en.wikipedia.org/wiki/Change_impact_analysis)
 
 --- 
