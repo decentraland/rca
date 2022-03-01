@@ -13,7 +13,7 @@ A wearable was deployed and airdropped with an inconsistent structure, this was 
 ## Issue Timeline
 
 - Feb-07-2022 Reported issue to backend team: Some users were not able to load their wearables and received a UI error when entering their backpack: `There was a problem loading your wearables`
-- Feb-07-2022 Backend Services validations were OK, Catalyst Responding, The Graph Up and Running, Queries to The Graph run OK.  
+- Feb-07-2022 Backend Services validations were OK, Catalyst Responding, The Graph Up and Running, Queries to The Graph ran OK.  
 Affected wallet `0x597D94248c5181232e83EE054b74F01548090F33`
 https://peer.decentraland.org/lambdas/collections/wearables-by-owner/0x597D94248c5181232e83EE054b74F01548090F33 
 - Feb-08-2022 Issue was also shared on [twitter](https://twitter.com/SlywestYo/status/1491092879510769665?s=20&t=HeFsRw5YBCgJG2UxK7adnA) and reported that this has been happening for the last 4 days
@@ -35,7 +35,7 @@ https://peer.decentraland.org/lambdas/collections/wearables-by-owner/0x597D94248
   }
 }
 ```
-- Feb-08-2022 Validated Collection at the NFT Servier https://nft-api.decentraland.org/v1/nfts?owner=0x597d94248c5181232e83ee054b74f01548090f33&first=1000
+- Feb-08-2022 Validated Collection at the NFT Server https://nft-api.decentraland.org/v1/nfts?owner=0x597d94248c5181232e83ee054b74f01548090f33&first=1000
 - Feb-08-2022 Identified that the failing wearable was `urn:decentraland:matic:collections-v2:0x6da5a89ce1f9af2f60ebfbce0825ff958872acce:3`. wearable.data.representations[0].contents had no url field and [Kernel](https://github.com/decentraland/kernel/blob/main/packages/shared/catalogs/sagas.ts#L239) was trying to get the hash from there
 
 ```{
@@ -113,4 +113,4 @@ https://github.com/decentraland/builder-server/commit/efc7b3179bdaa5a178b2bc4bc9
 ## Solution 
 
 Given the current wearable representation, the Builder Server validated that the structure before doing a deployment. Now Catalyst also validates the files that are part of the representation are present on the deployment and the Kernel filters corrupted Collections and gracefully logs the error. 
-On April 1st, 2022 the Catalyst Servers will also start to run entities [schemas validations](https://github.com/decentraland/adr/blob/main/docs/ADR-45-entities-v4.md) helpting to prevent more corrupted deployments.  
+On April 1st, 2022 the Catalyst Servers will also start to run entities [schemas validations](https://github.com/decentraland/adr/blob/main/docs/ADR-45-entities-v4.md) helping to prevent more corrupted deployments.  
