@@ -109,4 +109,4 @@ https://github.com/decentraland/builder-server/commit/efc7b3179bdaa5a178b2bc4bc9
 ## Solution 
 
 Given the current wearable representation, the Builder Server validated that the structure before doing a deployment. Now Catalyst also validates the files that are part of the representation are present on the deployment and the Kernel filters corrupted Collections and gracefully logs the error. 
-On April 1st, 2022 the Catalyst Servers will also start to run entities [schemas validations](https://github.com/decentraland/adr/blob/main/docs/ADR-45-entities-v4.md) helpting to prevent more failed deployments.  
+On April 1st, 2022 the Catalyst Servers will also start to run entities [schemas validations](https://github.com/decentraland/adr/blob/main/docs/ADR-45-entities-v4.md) helpting to prevent more corrupted deployments.  
