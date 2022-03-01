@@ -1,5 +1,9 @@
 # Incident 1
 
+**Reported on Discord on** Feb-05-2022
+**Mitigation** Feb-08-2022 
+**Solution Completed** Feb-10-2022
+
 ## What happened?
 Some users reported that wearables were not loading on their backpack
 
