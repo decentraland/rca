@@ -109,8 +109,11 @@ https://peer.decentraland.org/lambdas/collections/wearables-by-owner/0x597D94248
 - Feb-10-2022 Prevent uploading broken representations from the Builder
 https://github.com/decentraland/builder-server/commit/efc7b3179bdaa5a178b2bc4bc94443f53718a63d
 
+## Impact 
 
+During 5 days a set of users were not able to load any of their wearables
 ## Solution 
 
 Given the current wearable representation, the Builder Server validated that the structure before doing a deployment. Now Catalyst also validates the files that are part of the representation are present on the deployment and the Kernel filters corrupted Collections and gracefully logs the error. 
 On April 1st, 2022 the Catalyst Servers will also start to run entities [schemas validations](https://github.com/decentraland/adr/blob/main/docs/ADR-45-entities-v4.md) helping to prevent more corrupted deployments.  
+

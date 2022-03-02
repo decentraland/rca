@@ -18,4 +18,4 @@ In order to perform an Incident Analysis you can choose the tool that better fit
 ## Incidents Index
 
 - [Incident-1](Incidents/incident-1.md) *Feb-07-2022* Wearables not loading on some users backpack due to corrupted dropped wearable
-
+- [Incident-2](Incidents/incident-2.md) *Feb-13-2022* CDN proxies stopped working affecting the ability to join Decentraland and some sites
