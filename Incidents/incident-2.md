@@ -59,12 +59,11 @@ Please let us know if you would prefer this?
 ```
 - Feb-16-2022 CloudFlare proxies were reactivated for testing. Seemed that they fixed the issue on their side and anything went back to normal. 
 
+## Impact 
+
+- ~ 1k5 users disconnected from Decentraland during a period of ~ 8Hs
+- 400 USD x days of CloudFront, cost around 1k2 USD
+
 ## Solution 
 
 A temporary solution was to disable the CloudFlare CDN proxies until they addressed the issue on their side and we could reactivate the Service.
-
-
-## Impact 
-
-~ 1k5 users disconnected from Decentraland during a period of ~ 8Hs
-400 USD x days of CloudFront, cost around 1k2 USD
