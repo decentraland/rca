@@ -1,8 +1,10 @@
 # Incident 2
 
-**Reported on** Feb-12-2022
-**Mitigation** Feb-13-2022 
-**Solution Completed** Feb-16-2022
+|                        |             |
+| ---------------------: | :---------- |
+| **Reported on**        | Feb-12-2022 |
+| **Mitigation**         | Feb-13-2022 |
+| **Solution Completed** | Feb-16-2022 |
 
 ## What happened?
 
