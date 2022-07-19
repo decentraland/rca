@@ -59,7 +59,7 @@ July-13-2022 A Catalyst tag version with a rollback of **all the Catalyst DB** c
 
 July-13-2022 In order to be sure, another tag version was tested started from `v4.8.0` and with the DB changes and everything worked fine. This had the major DB changes and the fix for the `overwrittenBy` value calculation on the DB.
 
-July-13-2022 The remaining biggest change was in Lambdas, this was rollback and all the changes in the middle patches between `v4.8.0` and `v4.8.4` versions were added, creating a new version with all the changes but this refactor. In theory, the removed change shouldn't have affected the performance as it was just a reorganization of the endpoints to use Well Known Components and not an actual implementation.
+July-13-2022 The remaining biggest change was in Lambdas, this was rollback and all the changes in the middle patches between `v4.8.0` and `v4.8.4` versions were added, creating a new version with all the changes but this refactor. In theory, the removed change shouldn't have affected the performance as it was just a reorganization of the endpoints in preparation to then use Well Known Components on the Service, this change didn't have an actual feature implementation.
 
 July-14-2022 The tag version was tested overnight and everything worked normal. Users were allowed to join **peer-ap1** again.
 
