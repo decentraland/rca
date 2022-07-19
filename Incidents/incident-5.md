@@ -25,6 +25,7 @@ July-12-2022 - New Catalyst version [v4.8.4](https://github.com/decentraland/cat
 July-12-2022 - Upgrade nodes **peer-ec1** and **peer-ap1** from `v4.8.0` to `v4.8.4`
 
 July-12-2022 - After a while of the version update, alarms started to be triggered and lambdas services started to reboot
+
 July-12-2022 - To mitigate the issue **peer-ec1** was rollback to `v4.8.0` and the `maxUsers` of **peer-ap1** was set to ``0`` to avoid users being sent to the node
 July-12-2022 - Despite the change in the `maxUsers` property on **peer-ap1**, it was reported that people were still being directed to the node. After reviewing the Load Balancer configuration it was noticed that there were two health checks but the one being used was just a rename of `/content/status` instead of actually calling `/lambdas/health`. This was fixed and no more traffic was redirected to the affected node. 
 *CloudFlare Load Balancer*:
