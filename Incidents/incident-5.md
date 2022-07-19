@@ -156,7 +156,7 @@ July-15-2022 New [hotfix](https://github.com/decentraland/catalyst/releases/tag/
 
 ## Impact 
 
-No major impact. The Catalyst **peer-ec1** was quickly rollback to `v4.8.0` and **peer-ap1** node was left out from the Load Balancer and the Realm scoring logic to avoid traffic being request/sent from/to that node. 
+No major impact. The Catalyst **peer-ec1** was quickly rolled back to `v4.8.0` and **peer-ap1** node was left out from the Load Balancer and the Realm scoring logic to avoid traffic being request/sent from/to that node. 
 
 ## Solution 
 
