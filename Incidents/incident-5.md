@@ -21,6 +21,7 @@ After several tests, it was detected that the change causing this issue was a [r
 Several changes were accumulated in the release rollout and those potential sources of the issues added complexity to finding out what was the root cause of the problem.  
 
 July-12-2022 - New Catalyst version [v4.8.4](https://github.com/decentraland/catalyst/releases/tag/4.8.4) created. This version had a major change in the DB schema and all the queries impacted by this.
+
 July-12-2022 - Upgrade nodes **peer-ec1** and **peer-ap1** from `v4.8.0` to `v4.8.4`
 July-12-2022 - After a while of the version update, alarms started to be triggered and lambdas services started to reboot
 July-12-2022 - To mitigate the issue **peer-ec1** was rollback to `v4.8.0` and the `maxUsers` of **peer-ap1** was set to ``0`` to avoid users being sent to the node
