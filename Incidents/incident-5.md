@@ -14,7 +14,7 @@ After updating **peer-ec1** and **peer-ap1** from Catalyst `v4.8.0` to `v4.8.4` 
  
 ## Why did it happen?
 
-After several tests, it was detected that the change causing this issue was a [refactor](https://github.com/decentraland/catalyst/pull/1168) on the Lambdas routes to use Well Known Components but the rollout converged with a major DB change that led to think the issue was there and this situation added complexity to the troubleshooting process. 
+After several tests, it was detected that the change causing this issue was a [refactor](https://github.com/decentraland/catalyst/pull/1168) on the Lambdas routes to prepare the service to use Well Known Components in the future but the rollout converged with a major DB change that led to think the issue was there and this situation added complexity to the troubleshooting process. 
 
 ## Issue Timeline 
 
