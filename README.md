@@ -21,3 +21,4 @@ In order to perform an Incident Analysis you can choose the tool that better fit
 - [Incident-2](Incidents/incident-2.md) *Feb-13-2022* CDN proxies stopped working affecting the ability to join Decentraland and some sites
 - [Incident-3](Incidents/incident-3.md) *Apr-22-2022* Infura outage caused problem with different Services
 - [Incident-4](Incidents/incident-4.md) *May-18-2022* Some issues were detected after the explorer release on May-18-2022
+- [Incident-5](Incidents/incident-5.md) *Jul-12-2022* Catalyst node entered continuously rebooted after an update  
