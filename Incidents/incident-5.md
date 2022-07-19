@@ -53,13 +53,13 @@ Error: Query read timeout
     at processTimers (node:internal/timers:502:7)
 ```
 
-July-13-2022 A potential [fix](https://github.com/decentraland/catalyst/commit/3f12deb2536bf6dab39ae7bcdfdfcacb1e71f803) for the DB changes was added and tested on **peer-ap1** but the same issue happened. 
+July-13-2022 A [fix](https://github.com/decentraland/catalyst/commit/3f12deb2536bf6dab39ae7bcdfdfcacb1e71f803) for the DB changes was added and tested on **peer-ap1** but the same issue happened. 
 
-July-13-2022 A Catalyst tag version with a rollback of all the Catalyst DB changes was created and tested on **peer-ap1**. The HTTP Request pattern still happen. Concluding that the issue was not being caused by the DB changes. 
+July-13-2022 A Catalyst tag version with a rollback of **all the Catalyst DB** changes was created and tested on **peer-ap1**. The HTTP Request pattern still happen. 
 
-July-13-2022 In order to be sure, another tag version was tested started from `v4.8.0` and with the DB changes and everything worked fine
+July-13-2022 In order to be sure, another tag version was tested started from `v4.8.0` and with the DB changes and everything worked fine. This had the major DB changes and the fix for the `overwrittenBy` value calculation on the DB.
 
-July-13-2022 The remaining biggest change was in lambdas, this was rollback and all the changes in the middle patches between `v4.8.0` and `v4.8.4` versions were added, creating a new version with all the changes but this refactor. In theory, the removed change shouldn't have affected the performance as it was just a reorganization of the endpoints to use Well Known Components and not an actual implementation.
+July-13-2022 The remaining biggest change was in Lambdas, this was rollback and all the changes in the middle patches between `v4.8.0` and `v4.8.4` versions were added, creating a new version with all the changes but this refactor. In theory, the removed change shouldn't have affected the performance as it was just a reorganization of the endpoints to use Well Known Components and not an actual implementation.
 
 July-14-2022 The tag version was tested overnight and everything worked normal. Users were allowed to join **peer-ap1** again.
 
@@ -150,7 +150,6 @@ Failed Deployment Example:
 
 July-15-2022 New [hotfix](https://github.com/decentraland/catalyst/releases/tag/4.8.6) version created and updated.
 
-
 ## Impact 
 
 No major impact. The Catalyst **peer-ec1** was quickly rollback to `v4.8.0` and **peer-ap1** node was left out from the Load Balancer and the Realm scoring logic to avoid traffic being request/sent from/to that node. 
@@ -158,6 +157,7 @@ No major impact. The Catalyst **peer-ec1** was quickly rollback to `v4.8.0` and 
 ## Solution 
 
 - Lambdas refactor rollback. 
+- Fix for the calculation of the overwrittenBy value on the DB
 - Analyzing changing the AWS instance Type to be less restricted by the CPU Credits, there are newer, better, cheaper instance types.
 - Health check configuration fixed on the Load Balancer
 - Under research but not part of this issue, the set of accumulated Failed Deployments on **peer-ap1** due to the missing thumbnail 
