@@ -163,7 +163,7 @@ No major impact. The Catalyst **peer-ec1** was quickly rollback to `v4.8.0` and 
 - Lambdas refactor rollback. 
 - Fix for the calculation of the overwrittenBy value on the DB
 - Analyzing changing the AWS instance Type to be less restricted by the CPU Credits, there are newer, better, cheaper instance types.
-- Health check configuration fixed on the Load Balancer
+- Health check configuration fixed on the Load Balancer.
 - Under research but not part of this issue, the set of accumulated Failed Deployments on **peer-ap1** due to the missing thumbnail 
 - Rollout all patches version as soon as they are ready
 
