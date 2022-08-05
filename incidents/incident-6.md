@@ -14,7 +14,7 @@ Users were not able to change their Avatar wearables preventing them to access e
 
 ## Why did it happen?
 
-The Collectins Graph was 10 minutes away from the latest block, causing the Profiles update validations to fail as the Catalyst nodes query the las block with a 5 minutes time window. 
+The Collectins Graph was more than 10 minutes away from the latest block, causing the Profiles update validations to fail as the Catalyst nodes query the las block with a 5 minutes time window. 
 
 
 ## Issue Timeline 
