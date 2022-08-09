@@ -30,9 +30,9 @@ To add new incidents use the Date of the event as the Id with teh following form
 - [2022-02-05](incidents/2022-02-05.md) Wearables not loading on some users backpack due to corrupted dropped wearable
 - [2022-02-12](incidents/2022-02-12.md) CDN proxies stopped working affecting the ability to join Decentraland and some sites
 - [2022-04-22](incidents/2022-04-22.md) Infura outage caused problem with different Services
-- [2022-05-12](incidents/2022-05-12.md) Catalyst node continuously rebooted after an update rollout
 - [2022-05-18](incidents/2022-05-18.md) Some issues were detected after the explorer release on 
 - [2022-06-06](incidents/2022-06-06.md) Social metrics tracking discrepancies
+- [2022-07-12](incidents/2022-07-12.md) Catalyst node continuously rebooted after an update rollout
 - [2022-08-02](incidents/2022-08-02.md) The Graph indexing delay prevented users from changing their wearables
 
 
