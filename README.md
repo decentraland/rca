@@ -30,4 +30,6 @@ Incidents Severity are categorized on the following levels:
 - [Incident-3](incidents/incident-3.md) *Apr-22-2022* Infura outage caused problem with different Services
 - [Incident-4](incidents/incident-4.md) *May-18-2022* Some issues were detected after the explorer release on 
 - [Incident-5](incidents/incident-5.md) *Jul-12-2022* Catalyst node continuously rebooted after an update rollout
-- [Incident-6](incidents/incident-6.md) *Aug-02-2022* The Graph indexing delay prevented users from changing their wearables 
+- [Incident-6](incidents/incident-6.md) *Aug-02-2022* The Graph indexing delay prevented users from changing their wearables
+- [Incident-7](incidents/incident-7.md) *June-02-2022* Social metrics tracking discrepancies
+
