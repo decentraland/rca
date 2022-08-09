@@ -21,15 +21,18 @@ Incidents Severity are categorized on the following levels:
 - **SEV-4**: Minor issue requiring action but not affecting the ability to use the platform
 - **SEV-5**: Cosmetic issues or bugs not affecting the users’ ability to use the platform, but it's relevant to give awareness to the other teams
 
+To add new incidents use the Date of the event as the Id with teh following format `YYYY-MM-DD`. If there is more than one incident on the same date you may need to use a suffix as part of the file name.
+
 --- 
 
 ## Incidents Index
 
-- [Incident-1](incidents/incident-1.md) *Feb-07-2022* Wearables not loading on some users backpack due to corrupted dropped wearable
-- [Incident-2](incidents/incident-2.md) *Feb-13-2022* CDN proxies stopped working affecting the ability to join Decentraland and some sites
-- [Incident-3](incidents/incident-3.md) *Apr-22-2022* Infura outage caused problem with different Services
-- [Incident-4](incidents/incident-4.md) *May-18-2022* Some issues were detected after the explorer release on 
-- [Incident-5](incidents/incident-5.md) *Jul-12-2022* Catalyst node continuously rebooted after an update rollout
-- [Incident-6](incidents/incident-6.md) *Aug-02-2022* The Graph indexing delay prevented users from changing their wearables
-- [Incident-7](incidents/incident-7.md) *June-02-2022* Social metrics tracking discrepancies
+- [2022-02-05](incidents/2022-02-05.md) Wearables not loading on some users backpack due to corrupted dropped wearable
+- [2022-02-12](incidents/2022-02-12.md) CDN proxies stopped working affecting the ability to join Decentraland and some sites
+- [2022-04-22](incidents/2022-04-22.md) Infura outage caused problem with different Services
+- [2022-05-18](incidents/2022-05-18.md) Some issues were detected after the explorer release on 
+- [2022-06-06](incidents/2022-06-06.md) Social metrics tracking discrepancies
+- [2022-07-12](incidents/2022-07-12.md) Catalyst node continuously rebooted after an update rollout
+- [2022-08-02](incidents/2022-08-02.md) The Graph indexing delay prevented users from changing their wearables
+
 
