@@ -35,6 +35,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-07-25](incidents/2022-07-25.md) Cloudflare XSS protection prevented some users to deploy scenes or smart wearables
 - [2022-08-02](incidents/2022-08-02.md) The Graph indexing delay prevented users from changing their wearables
 - [2022-08-18](incidents/2022-08-18.md) Scenes not loading in Europe region
+- [2022-09-01](incidents/2022-09-01.md) Users not able to save passport
 - [2022-09-08](incidents/2022-09-08.md) Users not able to see or chat with each other
 
 ## Vulnerabilities Index
