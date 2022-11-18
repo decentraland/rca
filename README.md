@@ -39,6 +39,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-09-08](incidents/2022-09-08.md) Users not able to see or chat with each other
 - [2022-10-17](incidents/2022-10-17.md) Some 3D models not rendering
 - [2022-10-27](incidents/2022-10-27.md) Marketplace failed to display NFTs
+- [2022-11-13](incidents/2022-11-13.md) Users joined to the #mvmf channel noticing huge lags
 
 ## Vulnerabilities Index
 
