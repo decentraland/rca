@@ -55,3 +55,6 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-08-11](vulnerabilities/2022-08-11.md) Broken access control when deleting single items
 - [2022-08-12](vulnerabilities/2022-08-12.md) Subdomain takeover of osquery.decentraland.org
 - [2022-08-23](vulnerabilities/2022-08-23.md) Stored XSS - Execute Malicious Javascript on Victim's Browser
+- [2022-08-28](vulnerabilities/2022-08-28.md) AWS Credentials leaked in Docker Image
+- [2022-11-07](vulnerabilities/2022-11-07.md) SQL injection on governance API
+
