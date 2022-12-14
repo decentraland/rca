@@ -45,7 +45,6 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-12-05](incidents/2022-12-05-01.md) Chat & Friends service unavailable
 - [2022-12-07](incidents/2022-12-07.md) Some Realms show partial info of others
 
-
 ## Vulnerabilities Index
 
 - [2022-07-05](vulnerabilities/2022-07-05.md) Potentially outdated prices provided by the implementation of ChainlinkOracle
@@ -57,4 +56,5 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-08-23](vulnerabilities/2022-08-23.md) Stored XSS - Execute Malicious Javascript on Victim's Browser
 - [2022-08-28](vulnerabilities/2022-08-28.md) AWS Credentials leaked in Docker Image
 - [2022-11-07](vulnerabilities/2022-11-07.md) SQL injection on governance API
-
+- [2022-11-18](vulnerabilities/2022-11-18.md) Misconfigured SSO Function Allows Authenticated Access To Grafana
+- [2022-11-22](vulnerabilities/2022-11-22.md) Dangling Call from wMana
