@@ -46,6 +46,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-12-07](incidents/2022-12-07.md) Some Realms show partial info of others
 - [2022-12-09](incidents/2022-12-09.md) Wrong online users metric on the status page
 - [2022-12-27](incidents/2022-12-27.md) SDK Preview doesn’t work
+- [2023-01-05](incidents/2023-01-05.md) Desktop launcher doesn't launch correct version
 ## Vulnerabilities Index
 
 - [2022-07-05](vulnerabilities/2022-07-05.md) Potentially outdated prices provided by the implementation of ChainlinkOracle
