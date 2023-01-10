@@ -44,6 +44,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-11-17](incidents/2022-11-17.md) Changes in user profile not updating in peer perspective
 - [2022-12-05](incidents/2022-12-05-01.md) Chat & Friends service unavailable
 - [2022-12-07](incidents/2022-12-07.md) Some Realms show partial info of others
+- [2022-12-07](incidents/2022-12-07-2.md) Higher than normal crashes on desktop platforms (windows)
 - [2022-12-09](incidents/2022-12-09.md) Wrong online users metric on the status page
 - [2022-12-27](incidents/2022-12-27.md) SDK Preview doesn’t work
 - [2023-01-05](incidents/2023-01-05.md) Desktop launcher doesn't launch correct version
