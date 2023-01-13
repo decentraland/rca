@@ -50,6 +50,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-12-27](incidents/2022-12-27.md) SDK Preview doesn’t work
 - [2023-01-05](incidents/2023-01-05.md) Desktop launcher doesn't launch correct version
 - [2023-01-09](incidents/2023-01-09.md) Users unable to obtain their correct profiles 
+- [2023-01-11](incidents/2023-01-11.md) Users with many wearables are being shown an empty list
 ## Vulnerabilities Index
 
 - [2022-07-05](vulnerabilities/2022-07-05.md) Potentially outdated prices provided by the implementation of ChainlinkOracle
