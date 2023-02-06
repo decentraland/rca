@@ -54,6 +54,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2023-01-12](incidents/2023-01-12.md) Some users are not able to list or make friend requests
 - [2023-01-12](incidents/2023-01-12-2.md) Users unable to login to DG realm
 - [2023-02-01](incidents/2023-02-01.md) Loading an avatar with Thunder Earrings is crashing the client
+- [2023-02-02](incidents/2023-02-02.md) The teleport get freezed for all users using DEBUG_MODE
 ## Vulnerabilities Index
 
 - [2022-07-05](vulnerabilities/2022-07-05.md) Potentially outdated prices provided by the implementation of ChainlinkOracle
