@@ -52,6 +52,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2023-01-09](incidents/2023-01-09.md) Users unable to obtain their correct profiles 
 - [2023-01-11](incidents/2023-01-11.md) Users with many wearables are being shown an empty list
 - [2023-01-12](incidents/2023-01-12.md) Some users are not able to list or make friend requests
+- [2023-01-12](incidents/2023-01-12-2.md) Users unable to login to DG realm
 - [2023-02-01](incidents/2023-02-01.md) Loading an avatar with Thunder Earrings is crashing the client
 ## Vulnerabilities Index
 
