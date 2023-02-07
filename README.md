@@ -49,12 +49,14 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-12-09](incidents/2022-12-09.md) Wrong online users metric on the status page
 - [2022-12-27](incidents/2022-12-27.md) SDK Preview doesn’t work
 - [2023-01-05](incidents/2023-01-05.md) Desktop launcher doesn't launch correct version
-- [2023-01-09](incidents/2023-01-09.md) Users unable to obtain their correct profiles 
+- [2023-01-09](incidents/2023-01-09.md) Users unable to obtain their correct profiles
 - [2023-01-11](incidents/2023-01-11.md) Users with many wearables are being shown an empty list
 - [2023-01-12](incidents/2023-01-12.md) Some users are not able to list or make friend requests
 - [2023-01-12](incidents/2023-01-12-2.md) Users unable to login to DG realm
 - [2023-02-01](incidents/2023-02-01.md) Loading an avatar with Thunder Earrings is crashing the client
 - [2023-02-02](incidents/2023-02-02.md) The teleport get freezed for all users using DEBUG_MODE
+- [2023-02-02](incidents/2023-02-02-2.md) Transak widget not working
+
 ## Vulnerabilities Index
 
 - [2022-07-05](vulnerabilities/2022-07-05.md) Potentially outdated prices provided by the implementation of ChainlinkOracle
