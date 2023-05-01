@@ -57,6 +57,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2023-02-02](incidents/2023-02-02.md) The teleport get freezed for all users using DEBUG_MODE
 - [2023-02-02](incidents/2023-02-02-2.md) Transak widget not working
 - [2023-02-06](incidents/2023-02-06.md) Social Service Migration
+- [2023-02-14](incidents/2023-02-14.md) Reference client cannot be launched
 - [2023-02-27](incidents/2023-02-27.md) Get Friends, Private Chat and Friends Requests not working
 - [2023-03-09-2](incidents/2023-03-09-2.md) Ghost mode in builder
 - [2023-03-22](incidents/2023-03-22.md) NFT names not displaying as alias
