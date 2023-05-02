@@ -43,6 +43,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-11-13](incidents/2022-11-13.md) Users joined to the #mvmf channel noticing huge lags
 - [2022-11-15](incidents/2022-11-15.md) NFTs with animated gif thumbnails have stopped showing thumbnails
 - [2022-11-17](incidents/2022-11-17.md) Changes in user profile not updating in peer perspective
+- [2022-11-28](incidents/2022-11-28.md) Scenes MessageBus not working in production
 - [2022-12-05](incidents/2022-12-05-01.md) Chat & Friends service unavailable
 - [2022-12-07](incidents/2022-12-07.md) Some Realms show partial info of others
 - [2022-12-07](incidents/2022-12-07-2.md) Higher than normal crashes on desktop platforms (windows)
