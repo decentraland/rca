@@ -1,0 +1,32 @@
+# February 2, 2023 - Transak widget not working
+
+|                          |               |
+| -----------------------: | :------------ |
+| **Reported on Slack** | February-2-2023 |
+|           **Mitigation** | February-3-2023 |
+|   **Solution Completed** | February-3-2023 |
+
+## What happened?
+
+For users in Argentina, the widget to buy MANA with Transak stopped working (the popup was an empty white page).
+
+## Why did it happen?
+
+This happened because there were no available payment methods for Argentina, and the widget could not handle this scenario and broke when opened.
+
+## Issue Timeline - UTC
+
+1. 2023-02-02 17:22 An engineer from the dApps team reported the transak widget showing a blank screen when opened.
+2. 2023-02-02 17:53 The Transak team is notified of the issue.
+3. 2023-02-02 8:58 Another engineer from the dApps team reports that the issue does not happen when connected through a VPN via United States.
+4. 2023-02-03 02:58 The Transak team notifies that the issue has been patched in their staging environment.
+5. 2023-02-03 06:42 The Transak team notifies that the issue has been patched in production.
+
+
+## Impact
+
+All users from Argentina (and probably other countries which had no available payment methods).
+
+## Solution
+
+A hotfix were applied and deployed by the Transak team, there were no necessary changes on our side.
