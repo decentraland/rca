@@ -66,6 +66,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2023-03-28](incidents/2023-03-28.md) User connections constantly reconnected to the same realm
 - [2023-04-13](incidents/2023-04-13.md) Users are not visible in any realm other than Heimdallr
 - [2023-05-08](incidents/2023-05-08.md) Some users are not loading
+- [2023-05-23](incidents/2023-05-23.md) Cannot log in to Goerli network
 
 
 ## Vulnerabilities Index
