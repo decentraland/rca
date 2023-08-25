@@ -68,7 +68,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2023-05-08](incidents/2023-05-08.md) Some users are not loading
 - [2023-05-23](incidents/2023-05-23.md) Cannot log in to Goerli network
 - [2023-08-17](incidents/2023-08-17.md) Mic remains open when releasing the T key
-- [2023-08-17](incidents/2023-08-24.md) Users are not able to join Decentraland
+- [2023-08-24](incidents/2023-08-24.md) Users are not able to join Decentraland
 
 ## Vulnerabilities Index
 
