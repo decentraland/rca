@@ -73,6 +73,20 @@ To add new incidents use the date of the event as the Id with the following form
 
 ## Vulnerabilities Index
 
+- [2024-03-08](vulnerabilities/2024-03-08.md) Open redirect on `/auth/setup?redirectTo=`
+- [2024-03-01](vulnerabilities/2024-03-01-2.md) Any user can add themselves as a manager of any job they know they ID
+- [2024-03-01](vulnerabilities/2024-03-01.md) Files uploaded by studios, job creators and for conversations are publicly available
+- [2024-02-28](vulnerabilities/2024-02-28-2.md) Leak of API token through path traversal leads to arbitrary code execution, XSS etc
+- [2024-02-28](vulnerabilities/2024-02-28.md) Email Verification Bypass on Decentraland Studios Signup - No User interaction required
+- [2024-02-27](vulnerabilities/2024-02-27.md) Misconfiguration in X causes various vulnerabilities
+- [2024-2-21](vulnerabilities/2024-02-21.md) peer.decentraland.org multiple sites arbitrary file reads [LFI]
+- [2024-01-28](vulnerabilities/2024-01-28.md) Campaign Role Misconfiguration: Owner Demotion via Collaborator Privileges
+- [2024-01-26](vulnerabilities/2024-01-26.md) Vulnerability in Deployment Rights Assignment for Decentraland Names
+- [2024-01-14](vulnerabilities/2024-01-14.md) Unrestricted Webpage Modification and Rendering of External Resources
+- [2024-01-06](vulnerabilities/2024-01-06.md) Adding Items to any User's Collections
+- [2023-08-31](vulnerabilities/2023-08-31.md) DOM-based XSS via SSO_URL parameter on https://play.decentraland.org/
+- [2023-07-31](vulnerabilities/2023-07-31.md) Marketplace Expired Listing Issue
+- [2023-01-24](vulnerabilities/2023-01-24.md) Discord Broken Link Hijack on Decentraland DAO Transparency Dashboard - Official DCL DAO Discord servers
 - [2022-07-05](vulnerabilities/2022-07-05.md) Potentially outdated prices provided by the implementation of ChainlinkOracle
 - [2022-07-06](vulnerabilities/2022-07-06.md) Take over of broken or expired Links
 - [2022-07-13](vulnerabilities/2022-07-13.md) Arbitrary Modification content stored on S3
