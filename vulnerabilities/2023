@@ -1,0 +1,39 @@
+# Jan-24-2023 - Discord Broken Link Hijack on Decentraland DAO Transparency Dashboard - Official DCL DAO Discord server
+
+|                          |             |
+| -----------------------: | :---------- |
+| **Reported on Immunefi** | Jan-24-2023 |
+|           **Mitigation** | Jan-24-2023 |
+|   **Solution Completed** | Jan-26-2023 |
+
+## Description
+
+Broken link in DAO can lead to take-over
+
+## Severity
+
+Websites & Applications - Low.
+
+## Solution
+
+Fix link
+
+# Jul-31-2023 - Marketplace Expired Listing Issue
+
+|                          |             |
+| -----------------------: | :---------- |
+| **Reported on Immunefi** | Jul-31-2023 |
+|           **Mitigation** | Jul-31-2023 |
+|   **Solution Completed** | Jul-31-2023 |
+
+## Description
+
+Orders in the marketplace have a wrong expiration date.
+
+## Severity
+
+Websites & Applications - Low.
+
+## Solution
+
+We have notified users to cancel those orders.
