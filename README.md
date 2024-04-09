@@ -74,6 +74,7 @@ To add new incidents use the date of the event as the Id with the following form
 ## Vulnerabilities Index
 - [2024-03-19](vulnerabilities/2024-03-19.md) Allows user 1 to create text message for other user 2
 - [2024-03-14](vulnerabilities/2024-03-14.md) Stored XSS in custom link on `decentraland.org/profile/accounts/{id}`
+- [2024-03-09](vulnerabilities/2024-03-09.md)  CRLF injection can make many subdomains of decentraland.org totally inaccessible to any specific user
 - [2024-03-08](vulnerabilities/2024-03-08.md) Open redirect on `/auth/setup?redirectTo=`
 - [2024-03-01](vulnerabilities/2024-03-01-2.md) Any user can add themselves as a manager of any job they know they ID
 - [2024-03-01](vulnerabilities/2024-03-01.md) Files uploaded by studios, job creators and for conversations are publicly available
