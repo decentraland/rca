@@ -1,0 +1,18 @@
+# Dec-07-2024 - Leaked deprecated AWS Dev account's keys
+
+|                          |             |
+| -----------------------: | :---------- |
+| **Reported on Immunefi** | Dec-07-2024 |
+|           **Mitigation** | Dec-10-2024 |
+|   **Solution Completed** | Dec-10-2024 |
+
+## Description
+
+Deprecated AWS Dev account's credentials were exposed in old commits, which allow attackers to get control over an old AWS account: read S3 buckets content, create or terminate EC2 instances, access to secrets, etc.
+## Severity
+
+Websites & Applications - Low.
+
+## Solution
+
+We have disabled the credentiales leaked and the remaining non-leaked credentials in that AWS dev account. 
