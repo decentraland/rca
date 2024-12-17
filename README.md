@@ -73,9 +73,10 @@ To add new incidents use the date of the event as the Id with the following form
 
 ## Vulnerabilities Index
 
-- [2024-14-12](vulnerabilities/2024-14-12.md) Unrestricted external integration of Intercom Widget
-- [2024-07-12](vulnerabilities/2024-07-12.md) Leaked deprecated AWS Dev account's keys
-- [2024-03-12](vulnerabilities/2024-03-12.md) Public IP Leaked for events
+- [2024-12-16](vulnerabilities/2024-12-16.md) Leaked email addresses from specific studio
+- [2024-12-14](vulnerabilities/2024-12-14.md) Unrestricted external integration of Intercom Widget
+- [2024-12-07](vulnerabilities/2024-12-07.md) Leaked deprecated AWS Dev account's keys
+- [2024-12-03](vulnerabilities/2024-12-03.md) Public IP Leaked for events
 - [2024-10-08](vulnerabilities/2024-10-08.md) Archipelago handshake enabled signing any message for signedFetch
 - [2024-03-19](vulnerabilities/2024-03-19.md) Allows user 1 to create text message for other user 2
 - [2024-03-14](vulnerabilities/2024-03-14.md) Stored XSS in custom link on `decentraland.org/profile/accounts/{id}`
