@@ -73,6 +73,7 @@ To add new incidents use the date of the event as the Id with the following form
 
 ## Vulnerabilities Index
 
+- [2025-01-07](vulnerabilities/2025-01-07.md) Temp Atlas Server DoS
 - [2024-12-25](vulnerabilities/2024-12-25.md) Ability leaks the IP address and user agent of the other user
 - [2024-12-18](vulnerabilities/2024-12-18.md) Ability leaks the IP address and user agent of the other user
 - [2024-12-16](vulnerabilities/2024-12-16.md) Leaked email addresses from specific studio
