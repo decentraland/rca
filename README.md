@@ -72,6 +72,9 @@ To add new incidents use the date of the event as the Id with the following form
 - [2023-10-03](incidents/2023-10-03.md) Marketplace search not working
 
 ## Vulnerabilities Index
+
+- [2025-05-26](vulnerabilities/2025-05-26.md) Cache poisoning through WAF and a big amount of headers
+- [2025-05-23](vulnerabilities/2025-05-23.md) Blocking users through cookie poisoning and WAF
 - [2025-02-27](vulnerabilities/2025-02-27.md) AWS Key Exposed
 - [2025-01-07](vulnerabilities/2025-01-07.md) Temp Atlas Server DoS
 - [2024-12-25](vulnerabilities/2024-12-25.md) Ability leaks the IP address and user agent of the other user
