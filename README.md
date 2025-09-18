@@ -73,7 +73,7 @@ To add new incidents use the date of the event as the Id with the following form
 
 ## Vulnerabilities Index
 
-- [2025-08-25](vulnerabilities/2025-08-25.md) XSS through state parameter 
+- [2025-08-25](vulnerabilities/2025-08-25.md) XSS through state parameter
 - [2025-05-26](vulnerabilities/2025-05-26.md) Cache poisoning through WAF and a big amount of headers
 - [2025-05-23](vulnerabilities/2025-05-23.md) Blocking users through cookie poisoning and WAF
 - [2025-02-27](vulnerabilities/2025-02-27.md) AWS Key Exposed
