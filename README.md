@@ -72,7 +72,8 @@ To add new incidents use the date of the event as the Id with the following form
 - [2023-10-03](incidents/2023-10-03.md) Marketplace search not working
 
 ## Vulnerabilities Index
-
+- [2025-10-23](vulnerabilities/2025-10-23.md) GitHub Actions Script Injection
+- [2025-09-29](vulnerabilities/2025-09-29.md) Exposure of RTMP password in Admin Tools UI
 - [2025-08-25](vulnerabilities/2025-08-25.md) XSS through state parameter
 - [2025-05-26](vulnerabilities/2025-05-26.md) Cache poisoning through WAF and a big amount of headers
 - [2025-05-23](vulnerabilities/2025-05-23.md) Blocking users through cookie poisoning and WAF
