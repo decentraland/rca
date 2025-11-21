@@ -26,6 +26,7 @@ To add new incidents use the date of the event as the Id with the following form
 
 ## Incidents Index
 
+- [2025-11-18](incidents/2025-11-18.md) Cloudflare Global Network experiencing issues
 - [2022-02-05](incidents/2022-02-05.md) Wearables not loading on some users backpack due to corrupted dropped wearable
 - [2022-02-12](incidents/2022-02-12.md) CDN proxies stopped working affecting the ability to join Decentraland and some sites
 - [2022-04-22](incidents/2022-04-22.md) Infura outage caused problem with different Services
