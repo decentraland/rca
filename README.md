@@ -27,50 +27,57 @@ To add new incidents use the date of the event as the Id with the following form
 ## Incidents Index
 
 - [2025-11-18](incidents/2025-11-18.md) Cloudflare Global Network experiencing issues
-- [2022-02-05](incidents/2022-02-05.md) Wearables not loading on some users backpack due to corrupted dropped wearable
-- [2022-02-12](incidents/2022-02-12.md) CDN proxies stopped working affecting the ability to join Decentraland and some sites
-- [2022-04-22](incidents/2022-04-22.md) Infura outage caused problem with different Services
-- [2022-05-18](incidents/2022-05-18.md) Some issues were detected after the explorer release on
-- [2022-06-06](incidents/2022-06-06.md) Social metrics tracking discrepancies
-- [2022-07-12](incidents/2022-07-12.md) Catalyst node continuously rebooted after an update rollout
-- [2022-07-25](incidents/2022-07-25.md) Cloudflare XSS protection prevented some users to deploy scenes or smart wearables
-- [2022-08-02](incidents/2022-08-02.md) The Graph indexing delay prevented users from changing their wearables
-- [2022-08-18](incidents/2022-08-18.md) Scenes not loading in Europe region
-- [2022-09-01](incidents/2022-09-01.md) Users not able to save passport
-- [2022-09-08](incidents/2022-09-08.md) Users not able to see or chat with each other
-- [2022-10-17](incidents/2022-10-17.md) Some 3D models not rendering
-- [2022-10-27](incidents/2022-10-27.md) Marketplace failed to display NFTs
-- [2022-11-04](incidents/2022-11-04.md) 3d models from other scenes appearing on other scense
-- [2022-11-13](incidents/2022-11-13.md) Users joined to the #mvmf channel noticing huge lags
-- [2022-11-15](incidents/2022-11-15.md) NFTs with animated gif thumbnails have stopped showing thumbnails
-- [2022-11-17](incidents/2022-11-17.md) Changes in user profile not updating in peer perspective
-- [2022-11-28](incidents/2022-11-28.md) Scenes MessageBus not working in production
-- [2022-12-05](incidents/2022-12-05-01.md) Chat & Friends service unavailable
-- [2022-12-07](incidents/2022-12-07.md) Some Realms show partial info of others
-- [2022-12-07](incidents/2022-12-07-2.md) Higher than normal crashes on desktop platforms (windows)
-- [2022-12-09](incidents/2022-12-09.md) Wrong online users metric on the status page
-- [2022-12-27](incidents/2022-12-27.md) SDK Preview doesn’t work
-- [2023-01-05](incidents/2023-01-05.md) Desktop launcher doesn't launch correct version
-- [2023-01-09](incidents/2023-01-09.md) Users unable to obtain their correct profiles
-- [2023-01-11](incidents/2023-01-11.md) Users with many wearables are being shown an empty list
-- [2023-01-12](incidents/2023-01-12.md) Some users are not able to list or make friend requests
-- [2023-01-12](incidents/2023-01-12-2.md) Users unable to login to DG realm
-- [2023-02-01](incidents/2023-02-01.md) Loading an avatar with Thunder Earrings is crashing the client
-- [2023-02-02](incidents/2023-02-02.md) The teleport get freezed for all users using DEBUG_MODE
-- [2023-02-02](incidents/2023-02-02-2.md) Transak widget not working
-- [2023-02-06](incidents/2023-02-06.md) Social Service Migration
-- [2023-02-14](incidents/2023-02-14.md) Reference client cannot be launched
-- [2023-02-27](incidents/2023-02-27.md) Get Friends, Private Chat and Friends Requests not working
-- [2023-03-09-2](incidents/2023-03-09-2.md) Ghost mode in builder
-- [2023-03-22](incidents/2023-03-22.md) NFT names not displaying as alias
-- [2023-03-23](incidents/2023-03-23.md) Chats showing out of order
-- [2023-03-28](incidents/2023-03-28.md) User connections constantly reconnected to the same realm
-- [2023-04-13](incidents/2023-04-13.md) Users are not visible in any realm other than Heimdallr
-- [2023-05-08](incidents/2023-05-08.md) Some users are not loading
-- [2023-05-23](incidents/2023-05-23.md) Cannot log in to Goerli network
-- [2023-08-17](incidents/2023-08-17.md) Mic remains open when releasing the T key
-- [2023-08-24](incidents/2023-08-24.md) Users are not able to join Decentraland
+- [2025-11-15](incidents/2025-11-15.md) Genesis Plaza appearing in Worlds
 - [2023-10-03](incidents/2023-10-03.md) Marketplace search not working
+- [2023-08-30](incidents/2023-08-30.md) Users are not able access authenticated services
+- [2023-08-24](incidents/2023-08-24.md) Users are not able to join Decentraland
+- [2023-08-17](incidents/2023-08-17.md) Mic remains open when releasing the T key
+- [2023-05-23](incidents/2023-05-23.md) Cannot log in to Goerli network
+- [2023-05-16](incidents/2023-05-16.md) Places API is inaccessible
+- [2023-05-08](incidents/2023-05-08.md) Some users are not loading
+- [2023-04-13](incidents/2023-04-13.md) Users are not visible in any realm other than Heimdallr
+- [2023-03-28](incidents/2023-03-28.md) User connections constantly reconnected to the same realm
+- [2023-03-23](incidents/2023-03-23.md) Chats showing out of order
+- [2023-03-22](incidents/2023-03-22.md) NFT names not displaying as alias
+- [2023-03-09-2](incidents/2023-03-09-2.md) Ghost mode in builder
+- [2023-03-09](incidents/2023-03-09.md) Decentraland Homepage is down
+- [2023-02-27](incidents/2023-02-27.md) Get Friends, Private Chat and Friends Requests not working
+- [2023-02-14](incidents/2023-02-14.md) Reference client cannot be launched
+- [2023-02-06](incidents/2023-02-06.md) Social Service Migration
+- [2023-02-02-2](incidents/2023-02-02-2.md) Transak widget not working
+- [2023-02-02](incidents/2023-02-02.md) The teleport get freezed for all users using DEBUG_MODE
+- [2023-02-01](incidents/2023-02-01.md) Loading an avatar with Thunder Earrings is crashing the client
+- [2023-01-12-2](incidents/2023-01-12-2.md) Users unable to login to DG realm
+- [2023-01-12](incidents/2023-01-12.md) Some users are not able to list or make friend requests
+- [2023-01-11](incidents/2023-01-11.md) Users with many wearables are being shown an empty list
+- [2023-01-09](incidents/2023-01-09.md) Users unable to obtain their correct profiles
+- [2023-01-05](incidents/2023-01-05.md) Desktop launcher doesn't launch correct version
+- [2022-12-27](incidents/2022-12-27.md) SDK Preview doesn't work
+- [2022-12-09](incidents/2022-12-09.md) Wrong online users metric on the status page
+- [2022-12-07-3](incidents/2022-12-07-3.md) Some users do not see the execution of Custom Emotes
+- [2022-12-07-2](incidents/2022-12-07-2.md) Higher than normal crashes on desktop platforms (windows)
+- [2022-12-07](incidents/2022-12-07.md) Some Realms show partial info of others
+- [2022-12-05-03](incidents/2022-12-05-03.md) Events API inaccessible
+- [2022-12-05-02](incidents/2022-12-05-02.md) Crash when opening backpack
+- [2022-12-05](incidents/2022-12-05-01.md) Chat & Friends service unavailable
+- [2022-11-28](incidents/2022-11-28.md) Scenes MessageBus not working in production
+- [2022-11-17](incidents/2022-11-17.md) Changes in user profile not updating in peer perspective
+- [2022-11-15](incidents/2022-11-15.md) NFTs with animated gif thumbnails have stopped showing thumbnails
+- [2022-11-13](incidents/2022-11-13.md) Users joined to the #mvmf channel noticing huge lags
+- [2022-11-04](incidents/2022-11-04.md) 3d models from other scenes appearing on other scense
+- [2022-10-27](incidents/2022-10-27.md) Marketplace failed to display NFTs
+- [2022-10-17](incidents/2022-10-17.md) Some 3D models not rendering
+- [2022-09-08](incidents/2022-09-08.md) Users not able to see or chat with each other
+- [2022-09-01](incidents/2022-09-01.md) Users not able to save passport
+- [2022-08-18](incidents/2022-08-18.md) Scenes not loading in Europe region
+- [2022-08-02](incidents/2022-08-02.md) The Graph indexing delay prevented users from changing their wearables
+- [2022-07-25](incidents/2022-07-25.md) Cloudflare XSS protection prevented some users to deploy scenes or smart wearables
+- [2022-07-12](incidents/2022-07-12.md) Catalyst node continuously rebooted after an update rollout
+- [2022-06-06](incidents/2022-06-06.md) Social metrics tracking discrepancies
+- [2022-05-18](incidents/2022-05-18.md) Some issues were detected after the explorer release on
+- [2022-04-22](incidents/2022-04-22.md) Infura outage caused problem with different Services
+- [2022-02-12](incidents/2022-02-12.md) CDN proxies stopped working affecting the ability to join Decentraland and some sites
+- [2022-02-05](incidents/2022-02-05.md) Wearables not loading on some users backpack due to corrupted dropped wearable
 
 ## Vulnerabilities Index
 - [2025-10-23](vulnerabilities/2025-10-23.md) GitHub Actions Script Injection
