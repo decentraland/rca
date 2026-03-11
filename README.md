@@ -26,6 +26,7 @@ To add new incidents use the date of the event as the Id with the following form
 
 ## Incidents Index
 
+- [2026-03-04](incidents/2026-03-04.md) Avatar creation flow hung and login failures due to corrupt identity
 - [2025-11-18](incidents/2025-11-18.md) Cloudflare Global Network experiencing issues
 - [2025-11-15](incidents/2025-11-15.md) Genesis Plaza appearing in Worlds
 - [2023-10-03](incidents/2023-10-03.md) Marketplace search not working
