@@ -83,6 +83,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-02-05](incidents/2022-02-05.md) Wearables not loading on some users backpack due to corrupted dropped wearable
 
 ## Vulnerabilities Index
+- [2026-04-07](vulnerabilities/2026-04-07.md) Any Authenticated User Can Modify or Permanently Delete Any Event
 - [2026-03-04](vulnerabilities/2026-03-04.md) Unauthenticated newsletter unsubscription of other users
 - [2025-10-23](vulnerabilities/2025-10-23.md) GitHub Actions Script Injection
 - [2025-09-29](vulnerabilities/2025-09-29.md) Exposure of RTMP password in Admin Tools UI
