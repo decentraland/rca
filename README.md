@@ -26,6 +26,8 @@ To add new incidents use the date of the event as the Id with the following form
 
 ## Incidents Index
 
+- [2026-05-04](incidents/2026-05-04.md) Intermittent Crashing in Genesis Plaza (Part #2)
+- [2026-04-17](incidents/2026-04-17.md) Intermittent Crashing in Genesis Plaza (Mitigation)
 - [2026-03-17](incidents/2026-03-17.md) Users unable to login with Crypto wallets / Magic options
 - [2026-03-11](incidents/2026-03-11.md) Profile dapp wallet connection broken due to thirdweb dependency mismatch
 - [2026-03-04](incidents/2026-03-04.md) Avatar creation flow hung and login failures due to corrupt identity
