@@ -86,6 +86,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-02-05](incidents/2022-02-05.md) Wearables not loading on some users backpack due to corrupted dropped wearable
 
 ## Vulnerabilities Index
+- [2026-07-01](vulnerabilities/2026-07-01.md) Missing state-machine validation lets any user forge non-consensual friendships and bypass the ONLY_FRIENDS voice gate
 - [2026-06-08](vulnerabilities/2026-06-08.md) Parcel-restricted world collaborator can deploy to and delete scenes across the entire world
 - [2026-05-18](vulnerabilities/2026-05-18.md) Prompt injection in unity-explorer Claude PR review workflow
 - [2026-04-07](vulnerabilities/2026-04-07.md) Any Authenticated User Can Modify or Permanently Delete Any Event
