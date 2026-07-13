@@ -26,6 +26,7 @@ To add new incidents use the date of the event as the Id with the following form
 
 ## Incidents Index
 
+- [2026-07-07](incidents/2026-07-07.md) Remote users disappear when teleporting back to Genesis Plaza from a World
 - [2026-06-18](incidents/2026-06-18.md) Mass service request failures ("Premature close") after Node.js security patch hardened keep-alive socket pooling
 - [2026-05-04](incidents/2026-05-04.md) Intermittent Crashing in Genesis Plaza (Part #2)
 - [2026-04-17](incidents/2026-04-17.md) Intermittent Crashing in Genesis Plaza (Mitigation)
