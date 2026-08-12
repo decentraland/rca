@@ -87,11 +87,16 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-02-05](incidents/2022-02-05.md) Wearables not loading on some users backpack due to corrupted dropped wearable
 
 ## Vulnerabilities Index
+- [2026-08-12](vulnerabilities/2026-08-12.md) Invalid scene base breaks deployment identity across Genesis City and Worlds
+- [2026-08-11](vulnerabilities/2026-08-11.md) Case-sensitive scene-signer check in signed-fetch lets a scene act as the visiting user
 - [2026-08-07](vulnerabilities/2026-08-07-3.md) Unauthenticated worker bootstrap re-handed the engine's shared memory in the Bevy Explorer web client
 - [2026-08-07](vulnerabilities/2026-08-07-2.md) A URL query parameter selected the trusted super-user scene in the Bevy Explorer web client
 - [2026-08-07](vulnerabilities/2026-08-07.md) Scene sandbox escape reaches same-origin capabilities and persisted session credentials in the Bevy Explorer web client
+- [2026-07-30](vulnerabilities/2026-07-30.md) Unauthorized third-party emote deployment hijacks an approved third-party wearable's pointer
 - [2026-07-26](vulnerabilities/2026-07-26.md) Client-supplied `asset_pack_id` lets any user insert assets into another user's Builder asset pack
 - [2026-07-23](vulnerabilities/2026-07-23-2.md) Missing third-party manager authorization on the Builder collection publish route
+- [2026-07-23](vulnerabilities/2026-07-23.md) Stored CSS defacement of DAO proposal pages via unsanitized Snapshot vote rationale
+- [2026-07-22](vulnerabilities/2026-07-22.md) Scene thumbnail filename injects markup into the Places social endpoint (stored XSS / defacement)
 - [2026-07-20](vulnerabilities/2026-07-20.md) Marketplace accepts bids priced in an arbitrary ERC-20 that the UI presents to the seller as MANA
 - [2026-07-01](vulnerabilities/2026-07-01.md) Missing state-machine validation lets any user forge non-consensual friendships and bypass the ONLY_FRIENDS voice gate
 - [2026-06-08](vulnerabilities/2026-06-08.md) Parcel-restricted world collaborator can deploy to and delete scenes across the entire world
@@ -140,4 +145,3 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-11-07](vulnerabilities/2022-11-07.md) SQL injection on governance API
 - [2022-11-18](vulnerabilities/2022-11-18.md) Misconfigured SSO Function Allows Authenticated Access To Grafana
 - [2022-11-22](vulnerabilities/2022-11-22.md) Dangling Call from wMana
-
