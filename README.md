@@ -87,6 +87,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-02-05](incidents/2022-02-05.md) Wearables not loading on some users backpack due to corrupted dropped wearable
 
 ## Vulnerabilities Index
+- [2026-08-11-2](vulnerabilities/2026-08-11-2.md) Invalid scene base lets a Genesis publisher overwrite another publisher's place record
 - [2026-08-07](vulnerabilities/2026-08-07-3.md) Unauthenticated worker bootstrap re-handed the engine's shared memory in the Bevy Explorer web client
 - [2026-08-07](vulnerabilities/2026-08-07-2.md) A URL query parameter selected the trusted super-user scene in the Bevy Explorer web client
 - [2026-08-07](vulnerabilities/2026-08-07.md) Scene sandbox escape reaches same-origin capabilities and persisted session credentials in the Bevy Explorer web client
@@ -140,4 +141,3 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-11-07](vulnerabilities/2022-11-07.md) SQL injection on governance API
 - [2022-11-18](vulnerabilities/2022-11-18.md) Misconfigured SSO Function Allows Authenticated Access To Grafana
 - [2022-11-22](vulnerabilities/2022-11-22.md) Dangling Call from wMana
-
