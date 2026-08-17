@@ -87,6 +87,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-02-05](incidents/2022-02-05.md) Wearables not loading on some users backpack due to corrupted dropped wearable
 
 ## Vulnerabilities Index
+- [2026-08-13](vulnerabilities/2026-08-13.md) A profile deployment could carry another user's address in its avatar identity fields
 - [2026-08-12](vulnerabilities/2026-08-12.md) Invalid scene base breaks deployment identity across Genesis City and Worlds
 - [2026-08-11](vulnerabilities/2026-08-11.md) Case-sensitive scene-signer check in signed-fetch lets a scene act as the visiting user
 - [2026-08-07](vulnerabilities/2026-08-07-3.md) Unauthenticated worker bootstrap re-handed the engine's shared memory in the Bevy Explorer web client
