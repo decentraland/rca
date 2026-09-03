@@ -87,6 +87,11 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-02-05](incidents/2022-02-05.md) Wearables not loading on some users backpack due to corrupted dropped wearable
 
 ## Vulnerabilities Index
+- [2026-09-02](vulnerabilities/2026-09-02-3.md) A stored javascript: forum link in Builder ran in a curator's session
+- [2026-09-02](vulnerabilities/2026-09-02-2.md) The Auth request page previewed one typed-data payload while the wallet signed another
+- [2026-09-02](vulnerabilities/2026-09-02.md) Rental listing cancellation ignored which signer bumped the asset index
+- [2026-08-27](vulnerabilities/2026-08-27.md) The Auth request page dispatched transaction fields its review never showed
+- [2026-08-25](vulnerabilities/2026-08-25.md) Signed-fetch metadata keys fell outside the signature, letting a scene act as the visiting user
 - [2026-08-13](vulnerabilities/2026-08-13.md) A profile deployment could carry another user's address in its avatar identity fields
 - [2026-08-12](vulnerabilities/2026-08-12.md) Invalid scene base breaks deployment identity across Genesis City and Worlds
 - [2026-08-11](vulnerabilities/2026-08-11.md) Case-sensitive scene-signer check in signed-fetch lets a scene act as the visiting user
