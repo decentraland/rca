@@ -87,6 +87,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-02-05](incidents/2022-02-05.md) Wearables not loading on some users backpack due to corrupted dropped wearable
 
 ## Vulnerabilities Index
+- [2026-09-08](vulnerabilities/2026-09-08.md) A scene fetch() followed a cross-scheme redirect to file:// and returned the local response
 - [2026-09-02](vulnerabilities/2026-09-02-3.md) A stored javascript: forum link in Builder ran in a curator's session
 - [2026-09-02](vulnerabilities/2026-09-02-2.md) The Auth request page previewed one typed-data payload while the wallet signed another
 - [2026-09-02](vulnerabilities/2026-09-02.md) Rental listing cancellation ignored which signer bumped the asset index
