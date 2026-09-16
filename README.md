@@ -88,6 +88,8 @@ To add new incidents use the date of the event as the Id with the following form
 
 ## Vulnerabilities Index
 - [2026-09-30](vulnerabilities/2026-09-30.md) Client-controlled Builder forum posts let a collection creator publish content under Decentraland's forum account
+- [2026-09-12](vulnerabilities/2026-09-12-2.md) Scene JavaScript reached arbitrary native memory through a stale WebAssembly tag check in the mobile client
+- [2026-09-12](vulnerabilities/2026-09-12.md) A development key bundled in the production Mobile Hub was accepted for backoffice administration
 - [2026-09-08](vulnerabilities/2026-09-08.md) A scene fetch() followed a cross-scheme redirect to file:// and returned the local response
 - [2026-09-02](vulnerabilities/2026-09-02-3.md) A stored javascript: forum link in Builder ran in a curator's session
 - [2026-09-02](vulnerabilities/2026-09-02-2.md) The Auth request page previewed one typed-data payload while the wallet signed another
