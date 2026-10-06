@@ -90,7 +90,11 @@ To add new incidents use the date of the event as the Id with the following form
 - [2026-09-30](vulnerabilities/2026-09-30.md) Client-controlled Builder forum posts let a collection creator publish content under Decentraland's forum account
 - [2026-09-12](vulnerabilities/2026-09-12-2.md) Scene JavaScript reached arbitrary native memory through a stale WebAssembly tag check in the mobile client
 - [2026-09-12](vulnerabilities/2026-09-12.md) A development key bundled in the production Mobile Hub was accepted for backoffice administration
+- [2026-09-11](vulnerabilities/2026-09-11.md) A World restricted to a community let non-members in
 - [2026-09-08](vulnerabilities/2026-09-08.md) A scene fetch() followed a cross-scheme redirect to file:// and returned the local response
+- [2026-09-04](vulnerabilities/2026-09-04.md) A USD-priced listing was shown and charged as if the amount were MANA
+- [2026-09-03](vulnerabilities/2026-09-03-2.md) Estate offers were signed against a composition the bidder was never shown
+- [2026-09-03](vulnerabilities/2026-09-03.md) The Auth request page simulated a typed-data field that was not the one being signed
 - [2026-09-02](vulnerabilities/2026-09-02-3.md) A stored javascript: forum link in Builder ran in a curator's session
 - [2026-09-02](vulnerabilities/2026-09-02-2.md) The Auth request page previewed one typed-data payload while the wallet signed another
 - [2026-09-02](vulnerabilities/2026-09-02.md) Rental listing cancellation ignored which signer bumped the asset index
@@ -102,6 +106,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2026-08-07](vulnerabilities/2026-08-07-3.md) Unauthenticated worker bootstrap re-handed the engine's shared memory in the Bevy Explorer web client
 - [2026-08-07](vulnerabilities/2026-08-07-2.md) A URL query parameter selected the trusted super-user scene in the Bevy Explorer web client
 - [2026-08-07](vulnerabilities/2026-08-07.md) Scene sandbox escape reaches same-origin capabilities and persisted session credentials in the Bevy Explorer web client
+- [2026-08-03](vulnerabilities/2026-08-03.md) Batch LAND withdrawal from an Estate was authorized once for the whole batch
 - [2026-07-30](vulnerabilities/2026-07-30.md) Unauthorized third-party emote deployment hijacks an approved third-party wearable's pointer
 - [2026-07-26](vulnerabilities/2026-07-26.md) Client-supplied `asset_pack_id` lets any user insert assets into another user's Builder asset pack
 - [2026-07-23](vulnerabilities/2026-07-23-2.md) Missing third-party manager authorization on the Builder collection publish route
