@@ -87,6 +87,7 @@ To add new incidents use the date of the event as the Id with the following form
 - [2022-02-05](incidents/2022-02-05.md) Wearables not loading on some users backpack due to corrupted dropped wearable
 
 ## Vulnerabilities Index
+- [2026-10-11](vulnerabilities/2026-10-11.md) Rental listings were matched to on-chain rentals by signature alone
 - [2026-09-30](vulnerabilities/2026-09-30.md) Client-controlled Builder forum posts let a collection creator publish content under Decentraland's forum account
 - [2026-09-12](vulnerabilities/2026-09-12-2.md) Scene JavaScript reached arbitrary native memory through a stale WebAssembly tag check in the mobile client
 - [2026-09-12](vulnerabilities/2026-09-12.md) A development key bundled in the production Mobile Hub was accepted for backoffice administration
